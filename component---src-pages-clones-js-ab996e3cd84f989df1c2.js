@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{NZjE:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),c=t.n(a),l=(t("whWb"),t("Bl7J"));n.default=function(){return c.a.createElement(l.a,null,c.a.createElement("div",{className:"clones"},c.a.createElement("p",null,"Here's some info about the clones")))}},whWb:function(e,n,t){}}]);
+//# sourceMappingURL=component---src-pages-clones-js-ab996e3cd84f989df1c2.js.map
