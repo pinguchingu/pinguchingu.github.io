@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{"+8k4":function(n,e,a){},UMNN:function(n,e,a){"use strict";a.r(e);var t=a("q1tI"),c=a.n(t),o=(a("+8k4"),a("Bl7J"));e.default=function(){return c.a.createElement(o.a,null,c.a.createElement("div",{className:"downloads"}))}}}]);
+//# sourceMappingURL=component---src-pages-downloads-js-1cba4c91573fcea62efd.js.map
