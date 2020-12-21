@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"+8k4":function(e,n,a){},UMNN:function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),l=a.n(t),r=(a("+8k4"),a("Bl7J"));n.default=function(){return l.a.createElement(r.a,null,l.a.createElement("div",{className:"downloads"},l.a.createElement("h1",null,"Downloads"),l.a.createElement("h2",null,l.a.createElement("a",{href:"https://drive.google.com/file/d/1YAA970LFOi672SjrmPr7y0GmFWTG5RTA/view?usp=sharing"},"Resume"))))}}}]);
+//# sourceMappingURL=component---src-pages-downloads-js-bcdc70e654205dce0d93.js.map
